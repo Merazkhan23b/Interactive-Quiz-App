@@ -16,6 +16,15 @@ Shows score and highlights correct/incorrect answers.
 1. Clone or download the repository.
 2. Open `index.html` in a browser.
 
+## Deployment steps
+1.Push your code to GitHub
+2.Go to repository Settings → Pages
+3.Select the source branch
+4.Save changes
+5.Wait for deployment
+6.Test your site
+7.Add the live link to README.md
+
 ## Screenshots
 
 ### Home Page 
