@@ -4,7 +4,7 @@ A simple 5-question MCQ Quiz App with single-choice answers.
 Shows score and highlights correct/incorrect answers.
 
 ## Live Demo
-👉 [Deployed Link Here]
+👉 [Deployed Link Here]( https://merazkhan23b.github.io/Interactive-Quiz-App/)
 
 ## Features
 - 5 questions, 4 options each
